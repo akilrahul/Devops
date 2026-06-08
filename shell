@@ -1,7 +1,0 @@
-#!/bin/bash
-Var1=Welcome to Shell scripting
-var2=28/05/2026
-var3=Beginner
-var4=Initiating the shell scripst
-var5=created a file using touch command and named it as shell test.sh
-echo "$Var1 $var2 $var3 $var4 $var5"
